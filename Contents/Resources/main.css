@@ -1,6 +1,10 @@
 body {
 	background-color: #000000;
-	font-weight: normal;
+ 	font-weight: normal;
+}
+
+.time, .sender {
+	white-space: nowrap;
 }
 
 .context * {
@@ -15,11 +19,7 @@ body {
 	color: #00CCCC;
 }
 
-.incoming.content .message {
-	color: #CCCC00;
-}
-
-.outgoing.content .message {
+.content .message {
 	color: #00FF00;
 }
 
@@ -33,7 +33,7 @@ body {
 }
 
 .status .message {
-/*	color: #F8F8F8;*/
+	color: #CCCC00;
 }
 
 .status .online,

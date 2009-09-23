@@ -17,9 +17,9 @@
 	<key>DefaultBackgroundColor</key>
 	<string>000000</string>
 	<key>DefaultFontFamily</key>
-	<string>Andale Mono</string>
+	<string>Inconsolata</string>
 	<key>DefaultFontSize</key>
-	<integer>14</integer>
+	<integer>16</integer>
 	<key>DefaultVariant</key>
 	<string>Normal</string>
 	<key>DisableCustomBackground</key>
