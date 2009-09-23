@@ -1,0 +1,32 @@
+body {
+	background-color: #000000;
+	font-weight: normal;
+}
+
+/*  --------- Status  --------- */
+.status 
+{
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.status .message  
+{
+	color: #F8F8F8;
+}
+
+.status .online,
+.status .offline,
+.status .away,
+.status .away_message,
+.status .return_away,
+.status .idle,
+.status .return_idle,
+.status .contact_joined,
+.status .contact_left
+{
+	dislay: none;
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleGetInfoString</key>
+	<string>Haruki Zaemon Adium Message Style</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.adiumx.haruki.zaemon.style</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>1.0</string>
+	<key>CFBundleName</key>
+	<string>Haruki Zaemon</string>
+	<key>CFBundlePackageType</key>
+	<string>AdIM</string>
+	<key>DefaultBackgroundColor</key>
+	<string>000000</string>
+	<key>DefaultFontFamily</key>
+	<string>Andale Mono</string>
+	<key>DefaultFontSize</key>
+	<integer>14</integer>
+	<key>DefaultVariant</key>
+	<string>Normal</string>
+	<key>DisableCustomBackground</key>
+	<false/>
+	<key>ShowIncomingFonts</key>
+	<false/>
+	<key>ShowsUserIcons</key>
+	<false/>
+</dict>
+</plist>
