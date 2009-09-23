@@ -3,9 +3,28 @@ body {
 	font-weight: normal;
 }
 
+.context * {
+	color: #888888;
+}
+
+.content .time {
+	color: #00CC00;
+}
+
+.content .sender {
+	color: #00CCCC;
+}
+
+.incoming.content .message {
+	color: #CCCC00;
+}
+
+.outgoing.content .message {
+	color: #00FF00;
+}
+
 /*  --------- Status  --------- */
-.status 
-{
+.status {
 	text-align: center;
 	margin-top: 10px;
 	margin-bottom: 10px;
@@ -13,9 +32,8 @@ body {
 	margin-right: 20px;
 }
 
-.status .message  
-{
-	color: #F8F8F8;
+.status .message {
+/*	color: #F8F8F8;*/
 }
 
 .status .online,
@@ -26,7 +44,6 @@ body {
 .status .idle,
 .status .return_idle,
 .status .contact_joined,
-.status .contact_left
-{
+.status .contact_left {
 	dislay: none;
 }
