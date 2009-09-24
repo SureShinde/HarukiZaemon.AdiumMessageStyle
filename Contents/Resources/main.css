@@ -42,6 +42,7 @@ a:active {
 	color: #F8F8F8;
 }
 
+.status.purple,
 .status.online,
 .status.offline,
 .status.away,
