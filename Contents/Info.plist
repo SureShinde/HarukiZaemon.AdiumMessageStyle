@@ -17,9 +17,9 @@
 	<key>DefaultBackgroundColor</key>
 	<string>000000</string>
 	<key>DefaultFontFamily</key>
-	<string>Inconsolata</string>
+	<string>Monaco</string>
 	<key>DefaultFontSize</key>
-	<integer>16</integer>
+	<integer>12</integer>
 	<key>DefaultVariant</key>
 	<string>Normal</string>
 	<key>DisableCustomBackground</key>
